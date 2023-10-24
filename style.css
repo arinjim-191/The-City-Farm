@@ -1,0 +1,12 @@
+@font-face{
+    font-family: myfont;
+    src: url(./fonts/Brandon_bld.otf);
+
+    font-family: myfont;
+    src: url(./fonts/Brandon_bld_it.otf);
+
+}
+
+.nav-item a{
+    font-family: Brandon_bld.otf;
+}
