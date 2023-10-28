@@ -5,9 +5,15 @@
     font-family: myfont;
     src: url(./fonts/Brandon_bld_it.otf);
 
+    font-family: myfont;
+    src: url(./fonts/Grotesque);
+
 }
 
 .nav-item a{
     font-family: Brandon_bld.otf;
 }
 
+.home-font-1 a{
+    font-family: Brandon Grotesque;
+}
